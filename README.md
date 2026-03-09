@@ -52,5 +52,7 @@ Contendo:
 
 - Python
 - Jupyter Notebook
-- Pandas
-- Matplotlib
+
+* Bibliotecas:
+  - Pandas
+  - Matplotlib
